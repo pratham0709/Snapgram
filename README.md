@@ -14,10 +14,6 @@
   </div>
 
   <h3 align="center">A Social Media Application</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -42,9 +38,6 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -137,7 +130,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 <details>
 <summary><code>constants.index.ts</code></summary>
 
-```typescript
+typescript
 export const sidebarLinks = [
   {
     imgURL: "/assets/icons/home.svg",
@@ -188,7 +181,7 @@ export const bottombarLinks = [
     label: "Create",
   },
 ];
-```
+
 
 </details>
 
