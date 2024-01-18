@@ -722,6 +722,6 @@ export const checkIsLiked = (likeList: string[], userId: string) => {
 
 </details>
 
-## <a name="links">🔗 Links</a>
+
 
 
