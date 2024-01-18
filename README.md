@@ -26,10 +26,6 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-
-
-<a href="https://youtu.be/_W3R2VwRyF4?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
 ## <a name="introduction">🤖 Introduction</a>
 
 Explore social media with this user-friendly platform that has a nice look and lots of features. Easily create and explore posts, and enjoy a strong authentication system and quick data fetching using React Query for a smooth user experience.
@@ -127,6 +123,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 <summary><code>constants.index.ts</code></summary>
 
 typescript
+```
 export const sidebarLinks = [
   {
     imgURL: "/assets/icons/home.svg",
@@ -183,7 +180,7 @@ export const bottombarLinks = [
 
 <details>
 <summary><code>globals.css</code></summary>
-
+```
 ```css
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
 
